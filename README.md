@@ -1,2 +1,2 @@
 # mortyball
-Simulation of morty ball game
+Simulation of monty hall game
